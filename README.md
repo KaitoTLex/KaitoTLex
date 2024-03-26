@@ -2,7 +2,7 @@
 (c/c++)  
 i have some experience with microelectronics such as Arduinos, Raspberry Pi stuff, SBCs, Arm Processors and others.  
 always willing to learn new things though,  
-graduating Highschool 26'  
+graduating highschool26'  
 electrical engineer for [The Ragin' C-Biscuit](https://github.com/Team-1280)
 i like: SBCs, Breadboard Computers, CP/M OS, Custom Circuits, sleeping.  
 i can code in: C++, C, Fortran90, AVR Assembly, ARM Assembly, Java, Lua.
