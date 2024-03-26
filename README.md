@@ -3,10 +3,12 @@
 i have some experience with microelectronics such as Arduinos, Raspberry Pi stuff, SBCs, Arm Processors and others.  
 always willing to learn new things though,  
 graduating highschool26'  
-electrical engineer for [The Ragin' C-Biscuit](https://github.com/Team-1280)
+electrical engineer for [The Ragin' C-Biscuit](https://github.com/Team-1280)  
 i like: SBCs, Breadboard Computers, CP/M OS, Custom Circuits, sleeping.  
-i can code in: C++, C, Fortran90, AVR Assembly, ARM Assembly, Java, Lua.
-i can be reached on [Twitter](https://twitter.com/Kaito_malfoy)  
+i can code in: C++, C, Fortran90, AVR Assembly, ARM Assembly, Java, Lua.  
+i can be reached on [Twitter](https://twitter.com/Kaito_malfoy)   
+look at this cool server i found at computex2023:  
+![gigabyte server](https://pbs.twimg.com/media/FxmNz3daAAADjdF?format=jpg&name=large)  
 <!--
 **KaitoTLex/KaitoTLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
