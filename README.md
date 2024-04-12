@@ -1,5 +1,4 @@
  ## <span style="font-family:IBM Plex Mono; font-size:4em;">i'm ren</span>  
-<span style="font-family:IBM Plex Mono; font-size:4em;">
 (c/c++)  
 i have some experience with microelectronics such as Arduinos, Raspberry Pi stuff, SBCs, Arm Processors and others.  
 always willing to learn new things though,   
@@ -8,7 +7,6 @@ i can code in: C++, C, Fortran90, AVR Assembly, ARM Assembly, Java, Lua.
 i can be reached on [Twitter](https://twitter.com/Kaito_malfoy)   
 look at this cool server i found at computex2023:  
 ![gigabyte server](https://pbs.twimg.com/media/FxmNz3daAAADjdF?format=jpg&name=large)  
-</span>  
 <!--
 **KaitoTLex/KaitoTLex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
