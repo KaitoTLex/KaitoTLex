@@ -1,4 +1,4 @@
- 
+# HI FRIENDS 
 (C/C++)  
 i have some experience with microelectronics such as Arduinos, Raspberry Pi stuff, SBCs, Arm Processors and others.  
 always willing to learn new things though,   
