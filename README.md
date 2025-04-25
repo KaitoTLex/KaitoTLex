@@ -18,7 +18,9 @@ I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and re
 - I have worked with ARM sdk, OpenGL, GNU Science Library and currently learning Vulkan
 - I have experience with high level languages such as Julia, Python (Oh the Horror!) and Java
 - I have experience CADing in Altium Design, KiCAD, Eagle CAD, Fusion 360 and Solidworks
-- I have little to no experience with simulations. 
+- I have little to no experience with simulations.
+
+Hoshiyomi and Mafuyu fan. 
 
 <a href="https://nixos.org" target="_blank"><img alt="Nix" src="https://img.shields.io/badge/Nix-%235277c3?logo=nixos&logoColor=fff&style=for-the-badge"></img></a>
 
