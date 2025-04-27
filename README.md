@@ -11,7 +11,7 @@ I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and re
 ## did, working, moving
 - I have worked on a arduino-based 8-bit cycling computer which is capable of logging cadence, speed changes through time, as well as distance. 
 - I am currently working on a [TVC](https://en.wikipedia.org/wiki/Thrust_vectoring) rocket with a couple of friends. 
-- I want to work on Meta-Rayban intelligent mixed-reality glasses, with subtitle features. 
+- I want to build a RISC-V system capable of doing complex tasks and supports 64-bit computers. 
 
 ## fluency
 - I have experience using low level languages such as C++, C, Fortran, Rust, and Cobol
