@@ -26,7 +26,8 @@ Hoshiyomi and Mafuyu fan.
 <!---->
 
 
-<img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8279&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+<img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=8279&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">  
+
 ![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) 
 
 
