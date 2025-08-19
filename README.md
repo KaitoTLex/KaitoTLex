@@ -19,6 +19,7 @@ I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and re
 - I have experience with high level languages such as Julia, Python (Oh the Horror!) and Java
 - I have experience CADing in Altium Design, KiCAD, Eagle CAD, Fusion 360 and Solidworks
 - I have little to no experience with simulations.
+- I can speak: 國文(Mandarin), English, 明南語(Taiwanese) 
 
 Hoshiyomi and Mafuyu fan. 
 
