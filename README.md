@@ -31,8 +31,6 @@ Hoshiyomi and Mafuyu fan.
 
 ![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) 
 
-### pfp credit
-Profile Picture of Mafuyu by [Maaya](https://x.com/ShinigamiMaaya)
 
 
 
