@@ -1,5 +1,7 @@
 ## Yahallo ☄️
 
+![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 I am Kaito or Ren.  
 
 An aspiring electrical engineer and nuclear physicist.  
