@@ -1,6 +1,4 @@
-## Yahallo ☄️
-
-![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+# Yahallo ☄️
 
 I am Kaito or Ren.  
 
@@ -23,7 +21,7 @@ I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and re
 - I have little to no experience with simulations.
 - I can speak: 國文(Mandarin), English, 明南語(Taiwanese) 
 
-Hoshiyomi and Mafuyu fan. 
+Hoshimachi Suisei and Asahina Mafuyu are my oshi. 
 
 <!--<a href="https://nixos.org" target="_blank"><img alt="Nix" src="https://img.shields.io/badge/Nix-%235277c3?logo=nixos&logoColor=fff&style=for-the-badge"></img></a>-->
 <!---->
@@ -33,7 +31,7 @@ Hoshiyomi and Mafuyu fan.
 
 ![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) 
 
-
+![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
 
