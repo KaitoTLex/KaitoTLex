@@ -1,27 +1,28 @@
 # Yahallo ☄️
 
-I am Kaito or Ren.  
+I am Kaito or Ren. [find me here](https://kaitotlex.systems)
 
-An aspiring electrical engineer and nuclear physicist.  
+An aspiring electrical engineer, interested in researching more Nuclear Physics, Quantum Error Correction, and Simple Category Theory. 
 
 I wish to develop electronics that is _redundant_ and _reliable_ to be used in intense environments. I hope to design my own sets of instruments as scientific equipment for physics.  
 
-I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and redundancy of my OS. NixOS is a purely functional (in mathematics) lambda calculus based operating system that allows you to run predictable deployments in other systems. Within NixOS I run [*VSCodium*](https://vscodium.com/) to develop on non-low level programming languages and NixCat-based [NeoViM](https://neovim.io/) that allows my determinant operating system to purify NeoViM. 
+I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and redundancy of my OS. NixOS is a purely functional, declarative and determinantive operating system that allows you to run predictable deployments in other systems. Within NixOS I run [*VSCodium*](https://vscodium.com/) to develop on non-low level programming languages and NixCat-based [neovim](https://neovim.io/) that allows my determinant operating system to purify neovim. 
 
 ## did, working, moving
 - I have worked on a arduino-based 8-bit cycling computer which is capable of logging cadence, speed changes through time, as well as distance. 
 - I am currently working on a [TVC](https://en.wikipedia.org/wiki/Thrust_vectoring) rocket with a couple of friends. 
-- I want to build a RISC-V system capable of doing complex tasks and supports 64-bit computers. 
+- I want to build a open source core following the RISC-V instruction standard
 
 ## fluency
 - I have experience using low level languages such as C++, C, Fortran, Rust, and Cobol
-- I have worked with ARM sdk, OpenGL, GNU Science Library and currently learning Vulkan
-- I have experience with high level languages such as Julia, Python (Oh the Horror!) and Java
+- I am currently learning VHDL, System Verilog, Verilog, Chisel(Scala)
+- I have worked with ARM sdk, OpenGL, GNU Science Library and currently learning OpenGL
+- I have (some) experience with high level languages such as Julia, Python and Java
 - I have experience CADing in Altium Design, KiCAD, Eagle CAD, Fusion 360 and Solidworks
-- I have little to no experience with simulations.
+- I have little to no experience with simulations(except for verilator).
 - I can speak: 國文(Mandarin), English, 明南語(Taiwanese) 
 
-Hoshimachi Suisei and Asahina Mafuyu are my oshi. 
+[Hoshimachi Suisei](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A) and [Asahina Mafuyu](https://www.colorfulstage.com/characters/nightcordat2500/mafuyu/) are my oshi. 
 
 <!--<a href="https://nixos.org" target="_blank"><img alt="Nix" src="https://img.shields.io/badge/Nix-%235277c3?logo=nixos&logoColor=fff&style=for-the-badge"></img></a>-->
 <!---->
@@ -31,7 +32,7 @@ Hoshimachi Suisei and Asahina Mafuyu are my oshi.
 
 ![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) ![yuri](./assets/gif/yuri.png)
 
-![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=love-and-deepspace&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
 
