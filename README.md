@@ -29,7 +29,7 @@ Hoshimachi Suisei and Asahina Mafuyu are my oshi.
 
 <!--<img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?--username=8279&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">-->
 
-![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) 
+![nya](./assets/images/nya2.gif) ![mafumafu](./assets/gif/mafumafu.gif) ![linux](./assets/gif/linux_powered.gif) ![yuri](./assets/gif/yuri.png)
 
 ![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=asoul&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
