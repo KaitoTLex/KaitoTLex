@@ -2,16 +2,20 @@
 
 I am Kaito or Ren. [find me here](https://kaitotlex.systems)
 
-An aspiring electrical engineer, interested in researching more Nuclear Physics, Quantum Error Correction, and Simple Category Theory. 
+An aspiring electrical engineer, with interest in researching Nuclear Physics, Quantum Error Correction, and Simple Category Theory. 
 
 I wish to develop electronics that is _redundant_ and _reliable_ to be used in intense environments. I hope to design my own sets of instruments as scientific equipment for physics.  
 
-I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and redundancy of my OS. NixOS is a purely functional, declarative and determinantive operating system that allows you to run predictable deployments in other systems. Within NixOS I run [*VSCodium*](https://vscodium.com/) to develop on non-low level programming languages and NixCat-based [neovim](https://neovim.io/) that allows my determinant operating system to purify neovim. 
+I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and redundancy of my OS. NixOS is a purely functional, declarative and determinantive operating system that allows one to run predictable deployments in other systems. Within NixOS I run two IDEs: [*VSCodium*](https://vscodium.com/) to develop on non-low level programming languages and NixCat-based [neovim](https://neovim.io/) that allows my determinant operating system to purify neovim.
 
-## did, working, moving
-- I have worked on a arduino-based 8-bit cycling computer which is capable of logging cadence, speed changes through time, as well as distance. 
-- I am currently working on a [TVC](https://en.wikipedia.org/wiki/Thrust_vectoring) rocket with a couple of friends. 
-- I want to build a open source core following the RISC-V instruction standard
+I am currently working on mutiple projects including a flake that allows one to run NixOS on a clockworkPi, Cycling computer hijacking the power meter from my crankset, and possibly a low-power f91-w board forked from the sensorwatch project. There are also other projects that i'm working on that you may be more interested reading on [schematic](https://yap.kaitotlex.systems). 
+
+I am working on projects with [@MIT-OpenCompute](https://www.mit.edu/~ajzd/opencompute/), [functor.systems](https://functor.systems), and myself. 
+
+<!-- ## did, working, moving -->
+<!-- - I have worked on a arduino-based 8-bit cycling computer which is capable of logging cadence, speed changes through time, as well as distance.  -->
+<!-- - I am currently working on a [TVC](https://en.wikipedia.org/wiki/Thrust_vectoring) rocket with a couple of friends.  -->
+<!-- - I want to build a open source core following the RISC-V instruction standard -->
 
 ## fluency
 - I have experience using low level languages such as C++, C, Fortran, Rust, and Cobol
