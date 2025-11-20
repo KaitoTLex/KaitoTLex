@@ -30,7 +30,7 @@ I run a GNU/Linux distribution [NixOS](https://nixos.org) ensuring safety and re
 
 <!--<img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?--username=8279&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">-->
 
-![eva](./assets/images/eva.gif) ![nec](./assets/gif/nec.gif) ![linux](./assets/gif/linux_powered.gif) ![yuri](./assets/gif/yuri.png) ![trans](./assets/gif/trans.gif) ![migu](./assets/gif/miku.gif) ![latex](./assets/gif/latex.gif) ![self](./assets/gif/kaitotlex.gif) ![tetban](./assets/gif/tetris.gif)
+![eva](./assets/images/eva.gif) ![nec](./assets/gif/nec.gif) ![linux](./assets/gif/linux_powered.gif) ![yuri](./assets/gif/yuri.png) ![trans](./assets/gif/trans.gif) ![migu](./assets/gif/miku.gif) ![latex](./assets/gif/latex.gif) ![self](./assets/gif/kaitotlex.gif) ![tetban](./assets/gif/tetris.gif) ![train](./assets/gif/train.gif)
 
 ![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=love-and-deepspace&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
