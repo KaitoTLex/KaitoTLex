@@ -20,7 +20,7 @@ I am working on projects with [@MIT-OpenCompute](https://www.mit.edu/~ajzd/openc
 ## fluency
 - I have experience using low level languages such as C++, C, Fortran, Rust, and Cobol
 - I am currently learning VHDL, System Verilog, Verilog, Chisel(Scala)
-- I have worked with ARM sdk, OpenGL, GNU Science Library and currently learning OpenGL
+- I have worked with ARM sdk, GNU Science Library, and currently learning OpenGL
 - I have (some) experience with high level languages such as Julia, Python and Java
 - I have experience CADing in Altium Design, KiCAD, Eagle CAD, Fusion 360 and Solidworks
 - I have little to no experience with simulations(except for verilator).
