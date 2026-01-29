@@ -28,6 +28,8 @@ I am working on projects with [@MIT-OpenCompute](https://www.mit.edu/~ajzd/openc
 
 [Hoshimachi Suisei](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A) and [Asahina Mafuyu](https://www.colorfulstage.com/characters/nightcordat2500/mafuyu/) are my oshi. 
 
+profile picture credit to [kuroi0 on twitter](https://x.com/kuroi0/status/2016506372180103349)
+
 <!--<a href="https://nixos.org" target="_blank"><img alt="Nix" src="https://img.shields.io/badge/Nix-%235277c3?logo=nixos&logoColor=fff&style=for-the-badge"></img></a>-->
 <!---->
 
