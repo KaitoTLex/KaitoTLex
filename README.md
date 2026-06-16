@@ -1,6 +1,6 @@
 # Yahallo ☄️
 
-I am Kaito or Ren. [find me here](https://kaitotlex.systems)
+I am Kaito or Ren. [find me here](https://web.kaitotlex.systems)
 
 An aspiring electrical engineer, with interest in researching Nuclear Physics, Quantum Error Correction, and Simple Category Theory. 
 
