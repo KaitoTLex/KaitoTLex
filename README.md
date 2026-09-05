@@ -39,7 +39,7 @@ profile picture drawn by me, style based on walfie on twitter.
 ![eva](./assets/gif/eva.gif) ![nec](./assets/gif/nec.gif) ![linux](./assets/gif/linux_powered.gif) ![yuri](./assets/gif/yuri.png) ![trans](./assets/gif/trans.gif) ![migu](./assets/gif/miku.gif) ![latex](./assets/gif/latex.gif) ![self](./assets/gif/kaitotlex.gif) ![tetban](./assets/gif/tetris.gif) 
 <!-- ![train](./assets/gif/train.gif) -->
 
-![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=love-and-deepspace&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![KaitoTLex](https://count.getloli.com/@kaitotlex?name=kaitotlex&theme=booru-yuyuyui&padding=4&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 
 
